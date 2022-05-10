@@ -1,0 +1,4 @@
+webgl.loader.js filter=lfs diff=lfs merge=lfs -text
+webgl.wasm filter=lfs diff=lfs merge=lfs -text
+webgl.data filter=lfs diff=lfs merge=lfs -text
+webgl.framework.js filter=lfs diff=lfs merge=lfs -text
